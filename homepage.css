@@ -9,12 +9,17 @@
 
 body {
   background-color: #f1f3f6;
+  overflow: hidden;
 }
 
 .logo {
   padding-left: 20%;
   font-style: italic;
   font-size: 11px;
+}
+
+#explore_plus:hover{
+  color: white;
 }
 
 .login {
